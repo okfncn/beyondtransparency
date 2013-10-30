@@ -1,3 +1,14 @@
+Beyond Transparency 中文版计划
+========
+
+##译者注册
+
+有兴趣的朋友，请点击右侧issue，在[issue#2](https://github.com/okfncn/beyondtransparency/issues/2) 「志愿者注册」里留下:
+1.自己的联系方式，以及
+2.愿意翻译的章节（所有参见：https://github.com/okfncn/beyondtransparency/blob/master/chapters）
+
+
+
 Beyond Transparency
 ==================
 
