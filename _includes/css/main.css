@@ -14,7 +14,8 @@ a, a:visited{
 }
 
 a:hover,
-div.menu-btn:hover {
+div.menu-btn:hover,
+.return-top:hover {
   color: #bd2961;
   text-decoration: none;
 }
@@ -321,6 +322,7 @@ div.about-book{
   font-size:20px;
   line-height:30px;
   overflow:hidden;
+  padding-bottom:30px;
 }
 .chapter-text h2,
 .chapter-text h3,
@@ -401,6 +403,7 @@ div.about-book{
   margin:0px;
   font-size:14px;
   text-decoration:none;
+  list-style:none;
   font-family: 'TradeGothicLT';
 }
 .chapter-nav ul li:hover {
@@ -546,4 +549,15 @@ div.about-book{
 }
 .email h3{
   margin:20px 0px;
+}
+
+.return-top {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  top: 26px;
+  right: 0;
+  font-size: 10px;
+  font-family: 'TradeGothicLTCom-Bd2';
+  cursor: pointer;
 }
