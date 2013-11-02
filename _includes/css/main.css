@@ -50,7 +50,7 @@ div.menu-btn{
 }
 div.menu-bar .menu-btn.menu-icon,
 div.nav .menu-btn.menu-icon{
-  background-image: url('/images/menu_icon_sprite.png');
+  background-image: url('{{ site.baseurl}}/images/menu_icon_sprite.png');
   background-repeat: no-repeat;
   background-position: 100% 0%;
   display: block;
@@ -109,7 +109,7 @@ div.header h2{
 div.cloud{
   width:243px;
   height:161px;
-  background:url("/images/cloud.png");
+  background:url("{{ site.baseurl}}/images/cloud.png");
   position:absolute;
   top:100px;
   z-index:-5;
@@ -174,7 +174,7 @@ div.offset2{
   padding: 13px 15px;
 }
 div.btn-read{
-  background-image:url("/images/btn-arrow.png");
+  background-image:url("{{ site.baseurl}}/images/btn-arrow.png");
   background-repeat: no-repeat;
   background-position: 190px;
   background-size: 28px;
@@ -186,7 +186,7 @@ div.btn-read{
   border-color: transparent;
 }
 div.btn-read:active{
-  background-image:url("/images/btn-arrow.png");
+  background-image:url("{{ site.baseurl}}/images/btn-arrow.png");
 }
 
 ul.buy-links{
@@ -461,7 +461,7 @@ div.about-book{
 }
 
 .author .twitter{
-  background-image: url("/images/twitter.png");
+  background-image: url("{{ site.baseurl}}/images/twitter.png");
   background-repeat: no-repeat;
   background-position: top 5px left;
   padding-left:18px;
