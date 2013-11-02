@@ -1,53 +1,51 @@
 ---
 layout: chapter
-title: Preface
+title: 序言
 part: 0
 chapter: 0
 author: 
   -
      name: Brett Goldstein
-     job: Former Chief Data Officer 
-     employer: City of Chicago
+     job: 前首席数据官
+     employer: 芝加哥市
      photo_url: /images/authors/brett.png
      twitter: bjgol   
-     about: "Former Chief Data and Information Officer for the City of Chicago. Currently a fellow in Urban Science at the University of Chicago Harris School of Public Policy."  
+     about: "芝加哥市前首席数据官。现任芝加哥大学公共政策学院城市科学院士。"  
 
 permalink: /preface/
 ---
+开放数据的发展已经在公共领域展现了其在创新催化，效率提升，经济加速的能量。承接着著名的中央级开放数据计划例如 Data.gov 以及 白宫的开放政府计划，各地方政府逐步开始任命首席数据官，制定开放数据政策，以及建立开放数据门户来尝试开放数据计划。
 
-The rise of open data in the public sector has sparked innovation, driven efficiency, and fueled economic development. And in the vein of high-profile federal initiatives like Data.gov and the White House’s Open Government Initiative, more and more governments at the local level are making their foray into the field with Chief Data Officers, open data policies, and open data catalogs.
+虽然还在发展初期，但我们已经看到了开放数据改变我们城市未来的巨大潜能。通过提供清洁的公园，与罪案斗争，发给新公司商业执照，地方政府是最能直接影响人民群众生活质量的。也正因为此，在地方一级才有巨大的机遇来利用开放数据重新定义与建立人民与政府的关系。
 
-While still emerging, we are seeing evidence of the transformative potential of open data in shaping the future of our cities. It’s at the city level that government most directly impacts the lives of residents—providing clean parks, fighting crime, or issuing permits to open a new business. This is where there is the biggest opportunity to use open data to reimagine the relationship between citizens and government.
+随着开放数据的*动能*加强以及秩序的建立， 我们已经到了开放数据运动关键的转折点。作为一个社区，我们应当保持自省、独立思考以及随时适应新的变化。我们必须要理清哪些是已经证明成功运作的方法，哪些又是我们必须要去做的。从而我们能够预期一个有意义的、持久化的开放数据的成果。
 
-And as momentum grows and norms are set, we reach a critical turning point in the trajectory of the movement. As a community, we need to be reflective, mindful, and adaptive. We must take stock of what’s worked so far and what we still need to learn in order to ensure we are driving towards meaningful, sustainable outcomes.
+*Beyond Transparency* 是一本对开放数据各领域全方位的普查报告，涵盖了前线工作者分享的成功利用开放数据的案例。本书寻求超越为了透明而透明的传统诉求，而号召开始行动与解决实际的问题。通过书中分享的案例，我们可以了解如何建立一个开放数据的生态环境，使开放数据成为有效决策和高效社会服务，超能经济发展，公民权利保障以及公民社会发展的基石。
 
-*Beyond Transparency* is a cross-disciplinary survey of the open data landscape, in which practitioners share their own stories of what they’ve accomplished with open data. It seeks to move beyond the rhetoric of transparency for transparency’s sake and towards action and problem solving. Through these stories, we examine what is needed to build an ecosystem in which open data can become the raw materials to drive more effective decision-making and efficient service delivery, spur economic activity, and empower citizens to take an active role in improving their own communities.
 
-### How This Book Came to Be
+### 本书是如何写成的
 
-The idea for this book originated while I was in my role as Chief Information Officer for the City of Chicago. I was often flooded with requests of how to replicate the Chicago “success story” with open data. Some essays had been written to talk about implementations using specific vendor platforms. This was valuable, but I felt it required a broader approach. The more I thought about it, the more I came to believe that the moment was right for a “guidebook” of sorts that documented the successes and lessons learned of open civic data so far.
+编写此书的想法诞生于我还在芝加哥市担任首席数据官之时。我那时常收到海量的要求我分享如何拷贝芝加哥市在成功的开放数据工作的方法。一些文章已经介绍了如何利用第三方平台来具体实现开放数据计划。但我看来，虽然这些分享很有价值，但我们更需要一个更宽泛适用的方法。我越来越相信现在是最佳的时间来编写一本「指导手册」，以此来记录和分享过往开放数据的成功案例和经验教训。
 
-I had become acquainted with Jennifer Pahlka, founder of Code for America, through the City of Chicago’s engagement as a Code for America Fellowship city in 2012. We had built a trusting relationship through our discussions related to Code for America’s work in Chicago, and continued to get to know each other at the ongoing stream of open government and civic innovation conferences, meetings, and events that we both frequented. As I pondered how to push forward this idea of marking a milestone in civic open data, Jen was an obvious ally.
+我在2012年芝加哥市作为 Code for America 的 fellowship 计划一员时，认识了它的创建者 Jennifer Pahlka。我们在洽谈与合作 Code for America 在芝加哥市的工作中建立了互信的关系，并得以在后续的开放政府和市民创新相关的会议、研讨会、活动等场合加深双方的了解。在我想如何能使开放数据更好为市民服务的时候，Jen 无疑是最佳的伙伴。
 
-I reached out to Jen with a big idea: let’s write a book on open data. For two busy professionals, this seemed like a herculean task, but a plan came together that leveraged the resources of Code For America along with the insights of key players in the data space. Jen was enthusiastic and pulled together a team from Code for America to support the project. Within a few weeks, we had an initial list of contributors signed on. Within a few months we had chapter drafts in hand and a working outline of the book. A good idea coupled with agile execution—in many ways, the way this book was created embodies principles of the open data movement in and of itself.
+我向 Jen 提出了一个一个大计划：让我们一起写一本关于开放数据的书。 这个计划对于两个非常繁忙的专业人士而言，非常的艰难，但借助于 Code for America 的资源以及开放数据领域内的专家建议，我们得以最终有了一个执行的计划。Jen 对于这个计划十分的兴奋并在 Code for America 内成立了一个专门小组来支持这个项目。 在几周内，我们得以获得了一份志愿作者的名单。而在接下来几个月内，我们收到了各章节的草稿并且有了初步的编辑计划。敏捷的执行加上绝佳的计划，使得这本书的编写本身就运用并体现了开放数据运动的宗旨。
 
-### What Does This Book Seek to Do?
 
-*Beyond Transparency* is a resource for (and by) practitioners inside and outside government—from the municipal chief information officer to the community organizer to the civic-minded entrepreneur. We aim for this book to accomplish a few specific things.
+### 本书的目的是什么?
 
-For a local government looking to start an open data program, we hope the lessons outlined here will help them do exactly that.
+*Beyond Transparency* 是一本由实践者为实践者而编写的书籍。实践者们来自政府内外：既有政府的首席信息官，也有社区领导者更有草根创业者。而该书期望达成以下几个目的。
 
-We want to spark a discussion of where open data will go next—and how we, as practitioners, can be smarter, more effective, and more broadly impactful.
+对于想要开展开放政府计划的地方政府，本书中总结的经验教训将能帮助他们达成目的。
 
-We want to help community members (technologists and otherwise) outside of government better engage with the process of governance and improve our public institutions.
+我们期望能激发讨论来商讨开放数据如何继续发展以及我们作为实践者如何更有智慧得，更有效得，更有影响力得实施开放数据项目。
 
-And we want lend a voice to many aspects of the open data community. In this book, you’ll see perspectives from many different participants that comprise an open data ecosystem: public servants, community organizers, NGOs, technologists, designers, researchers, journalists, and citizens. With *Beyond Transparency*, we’ve brought together a diverse cross-section of the field’s top innovators and leaders to share their stories of what has been achieved with open data so far, what they’ve learned along the way, and how we can apply those lessons to realize a more promising future for America’s cities. As they look back on what’s been accomplished so far—and what is yet to come—emergent themes resonate throughout their stories.
+我们期望能帮助政府之外的社区技术人员以及其他人员来更好参与执政以及提升公共服务质量。
 
-As the title of this book suggests, the community is realizing the need to look beyond the rationale of transparency and instead align open data efforts with policy objectives, applying it to solve problems that really matter and make better decisions about how to allocate scarce resources. We also hear again and again the need for citizen-centered design that borrows principles from the User Experience field to move from data that is open to data that is truly usable and accessible by the public. Many practitioners cite the need for open data standards—across various types of civic data—to increase interoperability and make impact scalable. These are just some of the ideas and lessons that emerge from the stories gathered here.
+最后我们期望成为一个平台来让开放数据社区成员发出各自不同的见解和声音。在这本书中，你能见到来自开放数据生态圈内不同领域的实践者，包括：公务人员，社区组织者，NGO，技术人员，设计师，学者，记者以及普通民众。借助 *Beyond Transparency* 这本书的平台，我们得以吸引来自不同领域的顶尖创新者和领导者来分享他们如何成功进行开放数据项目，总结在这过程中他们的经验与教训，以及探讨基于这些经验教训，未来我们如何更好地发展开放数据。无论是在他们回顾各自的故事时还是展望开放数据的未来时，你都可以看到书中的主题在全书不同章节案例中互相呼应。
 
-As we look forward, this is an exciting point in time. We have proven the value of open data. We have shown it can be done in short order, in cities of all sizes, from Chicago to Asheville, North Carolina. And now it is up to all of us to carry on the work that has been started.
+当我们展望未来时，这个时间点是一个令人振奋的时刻。我们已经证明了开放数据的价值。我们展现了如何在短时间内在不同大小的地方政府，从芝加哥市到南加州的Ashevillie，完成开放数据的项目。而现在，正是我们基于过往成果，继续向前推进开放数据的时刻。
 
-### Acknowledgments
+### 致谢
 
-Thank you to my wife Sarah—as I continue to pile on projects, her tolerance is remarkable. Thank you to Lauren Dyson and the rest of Code for America team who helped bring this vision to fruition. Thanks to Mayor Rahm Emanuel, whose support laid the foundation that allowed open data in Chicago to become what it is today. And above all, thank you to the community of practitioners whose work is featured in this book. Your ingenuity, hard work, and commitment to innovation illuminate a path forward to a stronger public sphere powered by open data.
-
+感谢我的夫人 Sarah 能容忍我一直在不同的项目间忙碌。感谢 Code for America 的 Lauren Dyson 以及其他团队成员对项目的支持使其成为可能。感谢 Rahm Emanuel市长对于芝加哥市开放数据计划的支持从而使其取得了今日的成就。最后，感谢所有本书的贡献者。你们的诚实，努力，以及对创新的承诺向公众展现了一条走向由开放数据支撑的公民社会的康庄大道。 
