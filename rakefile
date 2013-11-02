@@ -8,7 +8,7 @@ require "jekyll"
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "okfncn/beyondtransparency"
-
+GITCAFE_REPONAME = "beyondtransparency/beyondtransparency"
 
 namespace :site do
   desc "Generate blog files"
@@ -31,6 +31,8 @@ namespace :site do
       system "git commit -m #{message.inspect}"
       system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
       system "git push origin master:refs/heads/gh-pages --force"
+      system "git remote add gitcafe git@gitcafe.com:#{GITCAFE_REPONAME}.git"
+      system "git push gitcafe master:refs/heads/gitcafe-pages --force"
     end
   end
 end
