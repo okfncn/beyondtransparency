@@ -7,7 +7,7 @@
     {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
 
     {% if output_next == true and p.layout == "chapter" %}  
-    <a href="{{ p.url }}">
+    <a href="{{ site.baseurl}}{{ p.url }}">
       {% if p.ispart == true %}
         PART {{p.part}}
       {% else %}
@@ -26,7 +26,7 @@
     {% if p.layout == "chapter" and counter ==  current  %}
         
       {% if prev != null %}
-        <a href="{{prev.url}}"> &larr;
+        <a href="{{ site.baseurl}}{{prev.url}}"> &larr;
         {% if prev.ispart == true %}
           PART {{prev.part}}
         {% else %}

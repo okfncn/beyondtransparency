@@ -35,7 +35,7 @@ layout: default
       {% if !page.author and page.ispart != true %}
       {% for a in page.author %}
       <div class="author">
-        <img class="img-circle" src="{{ a.photo_url }}" />
+        <img class="img-circle" src="{{ site.baseurl}}{{ a.photo_url }}" />
         <div class="name">{{ a.name }}</div>
         <div class="job-title">{{ a.job }}</div>
         <div class="employer">{{ a.employer }}</div>

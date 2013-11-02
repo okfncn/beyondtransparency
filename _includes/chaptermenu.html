@@ -4,7 +4,7 @@
   <ul >
     {% for p in site.pages %}
       {% if p.layout == "chapter" %}
-    <a href="{{ p.url }}"><li 
+    <a href="{{ site.baseurl}}{{ p.url }}"><li 
                                 {% if page.url == p.url %}
                                 class="current-page"
                                 {% endif %}
